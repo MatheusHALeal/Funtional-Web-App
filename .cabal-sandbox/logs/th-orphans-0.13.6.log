@@ -1,0 +1,26 @@
+Warning: th-orphans.cabal: Unknown fields: build-tool-depends (line 60)
+Fields allowed in this section:
+type, main-is, test-module, buildable, build-tools, build-depends,
+cpp-options, cc-options, ld-options, pkgconfig-depends, frameworks,
+c-sources, js-sources, default-language, other-languages,
+default-extensions, other-extensions, extensions, extra-libraries,
+extra-ghci-libraries, extra-lib-dirs, includes, install-includes,
+include-dirs, hs-source-dirs, other-modules, ghc-prof-options,
+ghcjs-prof-options, ghc-shared-options, ghcjs-shared-options,
+ghc-options, ghcjs-options, jhc-options, hugs-options,
+nhc98-options
+Configuring th-orphans-0.13.6...
+Building th-orphans-0.13.6...
+Preprocessing library th-orphans-0.13.6...
+[1 of 1] Compiling Language.Haskell.TH.Instances ( src/Language/Haskell/TH/Instances.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/TH/Instances.o )
+
+src/Language/Haskell/TH/Instances.hs:64:1: Warning:
+    The import of ‘Data.Monoid’ is redundant
+      except perhaps to import instances from ‘Data.Monoid’
+    To import instances alone, use: import Data.Monoid()
+In-place registering th-orphans-0.13.6...
+Creating package registration file:
+/tmp/pkgConf-th-orphans-0.131117142618168002245.6
+Installing library in
+/home/matheushal/Documentos/PF/WEB/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/th-orphans-0.13.6-FmO0VB6mYNRBHZSVWKDJ48
+Registering th-orphans-0.13.6...

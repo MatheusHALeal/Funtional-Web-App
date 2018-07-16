@@ -1,0 +1,13 @@
+basement ==0.0.8
+wai-middleware-static -any
+persistent-postgresql -any
+persistent-sqlite -any
+persistent-template -any
+happy -any
+haskell-src-exts -any
+persistent -any
+blaze-html -any
+scotty -any
+resourcet -any
+warp -any
+wai -any

@@ -1,0 +1,27 @@
+Configuring haskell-src-exts-1.20.2...
+Building haskell-src-exts-1.20.2...
+Preprocessing library haskell-src-exts-1.20.2...
+unused rules: 3
+[ 1 of 17] Compiling Language.Haskell.Exts.Extension ( src/Language/Haskell/Exts/Extension.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/Extension.o )
+[ 2 of 17] Compiling Language.Haskell.Exts.ExtScheme ( src/Language/Haskell/Exts/ExtScheme.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/ExtScheme.o )
+[ 3 of 17] Compiling Language.Haskell.Exts.SrcLoc ( src/Language/Haskell/Exts/SrcLoc.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/SrcLoc.o )
+[ 4 of 17] Compiling Language.Haskell.Exts.Syntax ( src/Language/Haskell/Exts/Syntax.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/Syntax.o )
+[ 5 of 17] Compiling Language.Haskell.Exts.Build ( src/Language/Haskell/Exts/Build.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/Build.o )
+[ 6 of 17] Compiling Language.Haskell.Exts.Fixity ( src/Language/Haskell/Exts/Fixity.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/Fixity.o )
+[ 7 of 17] Compiling Language.Haskell.Exts.Comments ( src/Language/Haskell/Exts/Comments.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/Comments.o )
+[ 8 of 17] Compiling Language.Haskell.Exts.ExactPrint ( src/Language/Haskell/Exts/ExactPrint.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/ExactPrint.o )
+[ 9 of 17] Compiling Language.Haskell.Exts.ParseMonad ( src/Language/Haskell/Exts/ParseMonad.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/ParseMonad.o )
+[10 of 17] Compiling Language.Haskell.Exts.InternalLexer ( src/Language/Haskell/Exts/InternalLexer.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/InternalLexer.o )
+[11 of 17] Compiling Language.Haskell.Exts.Lexer ( src/Language/Haskell/Exts/Lexer.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/Lexer.o )
+[12 of 17] Compiling Language.Haskell.Exts.ParseSyntax ( src/Language/Haskell/Exts/ParseSyntax.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/ParseSyntax.o )
+[13 of 17] Compiling Language.Haskell.Exts.Pretty ( src/Language/Haskell/Exts/Pretty.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/Pretty.o )
+[14 of 17] Compiling Language.Haskell.Exts.ParseUtils ( src/Language/Haskell/Exts/ParseUtils.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/ParseUtils.o )
+[15 of 17] Compiling Language.Haskell.Exts.InternalParser ( dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/InternalParser.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/InternalParser.o )
+[16 of 17] Compiling Language.Haskell.Exts.Parser ( src/Language/Haskell/Exts/Parser.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts/Parser.o )
+[17 of 17] Compiling Language.Haskell.Exts ( src/Language/Haskell/Exts.hs, dist/dist-sandbox-c9976ecc/build/Language/Haskell/Exts.o )
+In-place registering haskell-src-exts-1.20.2...
+Creating package registration file:
+/tmp/pkgConf-haskell-src-exts-1.2010252023621350490027.2
+Installing library in
+/home/matheushal/Documentos/PF/WEB/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/haskell-src-exts-1.20.2-3qFs0wrW5jV8otRvQ0F5Pd
+Registering haskell-src-exts-1.20.2...

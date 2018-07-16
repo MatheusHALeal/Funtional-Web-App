@@ -1,0 +1,34 @@
+Configuring persistent-2.8.2...
+Building persistent-2.8.2...
+Preprocessing library persistent-2.8.2...
+[ 1 of 25] Compiling Database.Persist.Class.PersistConfig ( Database/Persist/Class/PersistConfig.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Class/PersistConfig.o )
+[ 2 of 25] Compiling Database.Persist.Types.Base ( Database/Persist/Types/Base.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Types/Base.o )
+[ 3 of 25] Compiling Database.Persist.Class.PersistField ( Database/Persist/Class/PersistField.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Class/PersistField.o )
+[ 4 of 25] Compiling Database.Persist.Class.PersistEntity ( Database/Persist/Class/PersistEntity.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Class/PersistEntity.o )
+[ 5 of 25] Compiling Database.Persist.Types ( Database/Persist/Types.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Types.o )
+[ 6 of 25] Compiling Database.Persist.Quasi ( Database/Persist/Quasi.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Quasi.o )
+[ 7 of 25] Compiling Database.Persist.Class.PersistStore ( Database/Persist/Class/PersistStore.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Class/PersistStore.o )
+[ 8 of 25] Compiling Database.Persist.Class.PersistQuery ( Database/Persist/Class/PersistQuery.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Class/PersistQuery.o )
+[ 9 of 25] Compiling Database.Persist.Class.DeleteCascade ( Database/Persist/Class/DeleteCascade.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Class/DeleteCascade.o )
+[10 of 25] Compiling Database.Persist.Class.PersistUnique ( Database/Persist/Class/PersistUnique.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Class/PersistUnique.o )
+[11 of 25] Compiling Database.Persist.Class ( Database/Persist/Class.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Class.o )
+[12 of 25] Compiling Database.Persist.Sql.Types.Internal ( Database/Persist/Sql/Types/Internal.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Sql/Types/Internal.o )
+[13 of 25] Compiling Database.Persist.Sql.Types ( Database/Persist/Sql/Types.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Sql/Types.o )
+[14 of 25] Compiling Database.Persist.Sql.Internal ( Database/Persist/Sql/Internal.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Sql/Internal.o )
+[15 of 25] Compiling Database.Persist ( Database/Persist.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist.o )
+[16 of 25] Compiling Database.Persist.Sql.Class ( Database/Persist/Sql/Class.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Sql/Class.o )
+[17 of 25] Compiling Database.Persist.Sql.Raw ( Database/Persist/Sql/Raw.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Sql/Raw.o )
+[18 of 25] Compiling Database.Persist.Sql.Run ( Database/Persist/Sql/Run.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Sql/Run.o )
+[19 of 25] Compiling Database.Persist.Sql.Util ( Database/Persist/Sql/Util.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Sql/Util.o )
+[20 of 25] Compiling Database.Persist.Sql.Orphan.PersistStore ( Database/Persist/Sql/Orphan/PersistStore.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Sql/Orphan/PersistStore.o )
+[21 of 25] Compiling Database.Persist.Sql.Migration ( Database/Persist/Sql/Migration.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Sql/Migration.o )
+[22 of 25] Compiling Database.Persist.Sql.Raw.QQ ( Database/Persist/Sql/Raw/QQ.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Sql/Raw/QQ.o )
+[23 of 25] Compiling Database.Persist.Sql.Orphan.PersistQuery ( Database/Persist/Sql/Orphan/PersistQuery.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Sql/Orphan/PersistQuery.o )
+[24 of 25] Compiling Database.Persist.Sql.Orphan.PersistUnique ( Database/Persist/Sql/Orphan/PersistUnique.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Sql/Orphan/PersistUnique.o )
+[25 of 25] Compiling Database.Persist.Sql ( Database/Persist/Sql.hs, dist/dist-sandbox-c9976ecc/build/Database/Persist/Sql.o )
+In-place registering persistent-2.8.2...
+Creating package registration file:
+/tmp/pkgConf-persistent-2.8278722862233665123.2
+Installing library in
+/home/matheushal/Documentos/PF/WEB/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/persistent-2.8.2-5f0ZScEr6qsJS8szBxQmlB
+Registering persistent-2.8.2...

@@ -1,0 +1,43 @@
+Configuring aeson-compat-0.3.8...
+Building aeson-compat-0.3.8...
+Preprocessing library aeson-compat-0.3.8...
+[1 of 1] Compiling Data.Aeson.Compat ( src/Data/Aeson/Compat.hs, dist/dist-sandbox-c9976ecc/build/Data/Aeson/Compat.o )
+
+src/Data/Aeson/Compat.hs:119:1: Warning:
+    The import of ‘defaultOptions, typeMismatch’
+    from module ‘Data.Aeson.Types’ is redundant
+
+src/Data/Aeson/Compat.hs:125:1: Warning:
+    The qualified import of ‘Data.Text.Encoding’ is redundant
+      except perhaps to import instances from ‘Data.Text.Encoding’
+    To import instances alone, use: import Data.Text.Encoding()
+
+src/Data/Aeson/Compat.hs:154:1: Warning:
+    Module ‘Data.Attoparsec.Number’ is deprecated:
+      This module will be removed in the next major release.
+
+src/Data/Aeson/Compat.hs:439:26: Warning:
+    In the use of type constructor or class ‘Number’
+    (imported from Data.Attoparsec.Number):
+    Deprecated: "This module will be removed in the next major release."
+
+src/Data/Aeson/Compat.hs:444:48: Warning:
+    In the use of type constructor or class ‘Number’
+    (imported from Data.Attoparsec.Number):
+    Deprecated: "This module will be removed in the next major release."
+
+src/Data/Aeson/Compat.hs:446:27: Warning:
+    In the use of data constructor ‘D’
+    (imported from Data.Attoparsec.Number):
+    Deprecated: "This module will be removed in the next major release."
+
+src/Data/Aeson/Compat.hs:447:27: Warning:
+    In the use of data constructor ‘I’
+    (imported from Data.Attoparsec.Number):
+    Deprecated: "This module will be removed in the next major release."
+In-place registering aeson-compat-0.3.8...
+Creating package registration file:
+/tmp/pkgConf-aeson-compat-0.37833686901102520059.8
+Installing library in
+/home/matheushal/Documentos/PF/WEB/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/aeson-compat-0.3.8-5QRsFfdRie45oQynk83TeE
+Registering aeson-compat-0.3.8...

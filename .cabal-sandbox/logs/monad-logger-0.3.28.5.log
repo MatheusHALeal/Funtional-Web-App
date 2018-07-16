@@ -1,0 +1,35 @@
+Configuring monad-logger-0.3.28.5...
+Building monad-logger-0.3.28.5...
+Preprocessing library monad-logger-0.3.28.5...
+[1 of 2] Compiling Paths_monad_logger ( dist/dist-sandbox-c9976ecc/build/autogen/Paths_monad_logger.hs, dist/dist-sandbox-c9976ecc/build/Paths_monad_logger.o )
+[2 of 2] Compiling Control.Monad.Logger ( Control/Monad/Logger.hs, dist/dist-sandbox-c9976ecc/build/Control/Monad/Logger.o )
+
+Control/Monad/Logger.hs:133:1: Warning:
+    Module ‘Control.Monad.Trans.Error’ is deprecated:
+      Use Control.Monad.Trans.Except instead
+
+Control/Monad/Logger.hs:231:26: Warning:
+    In the use of type constructor or class ‘Error’
+    (imported from Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Control/Monad/Logger.hs:231:51: Warning:
+    In the use of type constructor or class ‘ErrorT’
+    (imported from Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Control/Monad/Logger.hs:249:28: Warning:
+    In the use of type constructor or class ‘Error’
+    (imported from Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Control/Monad/Logger.hs:249:55: Warning:
+    In the use of type constructor or class ‘ErrorT’
+    (imported from Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+In-place registering monad-logger-0.3.28.5...
+Creating package registration file:
+/tmp/pkgConf-monad-logger-0.3.28982906996135497281.5
+Installing library in
+/home/matheushal/Documentos/PF/WEB/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/monad-logger-0.3.28.5-0OoX3YRi2fP9wZbENQwyGz
+Registering monad-logger-0.3.28.5...

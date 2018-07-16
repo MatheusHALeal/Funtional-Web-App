@@ -1,0 +1,44 @@
+Configuring monad-logger-0.3.26...
+Building monad-logger-0.3.26...
+Preprocessing library monad-logger-0.3.26...
+[1 of 1] Compiling Control.Monad.Logger ( Control/Monad/Logger.hs, dist/dist-sandbox-c9976ecc/build/Control/Monad/Logger.o )
+
+Control/Monad/Logger.hs:129:1: Warning:
+    Module ‘Control.Monad.Trans.Error’ is deprecated:
+      Use Control.Monad.Trans.Except instead
+
+Control/Monad/Logger.hs:238:26: Warning:
+    In the use of type constructor or class ‘Error’
+    (imported from Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Control/Monad/Logger.hs:238:51: Warning:
+    In the use of type constructor or class ‘ErrorT’
+    (imported from Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Control/Monad/Logger.hs:256:28: Warning:
+    In the use of type constructor or class ‘Error’
+    (imported from Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Control/Monad/Logger.hs:256:55: Warning:
+    In the use of type constructor or class ‘ErrorT’
+    (imported from Control.Monad.Trans.Error):
+    Deprecated: "Use Control.Monad.Trans.Except instead"
+
+Control/Monad/Logger.hs:405:10: Warning:
+    No explicit implementation for
+      ‘generalBracket’
+    In the instance declaration for ‘MonadMask (NoLoggingT m)’
+
+Control/Monad/Logger.hs:515:10: Warning:
+    No explicit implementation for
+      ‘generalBracket’
+    In the instance declaration for ‘MonadMask (LoggingT m)’
+In-place registering monad-logger-0.3.26...
+Creating package registration file:
+/tmp/pkgConf-monad-logger-0.32694553061703964683.26
+Installing library in
+/home/matheushal/Documentos/PF/WEB/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/monad-logger-0.3.26-8F9RsvQAm1M1ynnifpsT6c
+Registering monad-logger-0.3.26...

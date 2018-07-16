@@ -1,0 +1,27 @@
+[1 of 1] Compiling Main             ( /tmp/cabal-tmp-5462/http-api-data-0.3.8.1/dist/dist-sandbox-c9976ecc/setup/setup.hs, /tmp/cabal-tmp-5462/http-api-data-0.3.8.1/dist/dist-sandbox-c9976ecc/setup/Main.o )
+Linking /tmp/cabal-tmp-5462/http-api-data-0.3.8.1/dist/dist-sandbox-c9976ecc/setup/setup ...
+Warning: http-api-data.cabal: Ignoring unknown section type: custom-setup
+Warning: http-api-data.cabal: Unknown fields: build-tool-depends (line 79)
+Fields allowed in this section:
+type, main-is, test-module, buildable, build-tools, build-depends,
+cpp-options, cc-options, ld-options, pkgconfig-depends, frameworks,
+c-sources, js-sources, default-language, other-languages,
+default-extensions, other-extensions, extensions, extra-libraries,
+extra-ghci-libraries, extra-lib-dirs, includes, install-includes,
+include-dirs, hs-source-dirs, other-modules, ghc-prof-options,
+ghcjs-prof-options, ghc-shared-options, ghcjs-shared-options,
+ghc-options, ghcjs-options, jhc-options, hugs-options,
+nhc98-options
+Configuring http-api-data-0.3.8.1...
+Building http-api-data-0.3.8.1...
+Preprocessing library http-api-data-0.3.8.1...
+[1 of 4] Compiling Web.Internal.HttpApiData ( src/Web/Internal/HttpApiData.hs, dist/dist-sandbox-c9976ecc/build/Web/Internal/HttpApiData.o )
+[2 of 4] Compiling Web.Internal.FormUrlEncoded ( src/Web/Internal/FormUrlEncoded.hs, dist/dist-sandbox-c9976ecc/build/Web/Internal/FormUrlEncoded.o )
+[3 of 4] Compiling Web.FormUrlEncoded ( src/Web/FormUrlEncoded.hs, dist/dist-sandbox-c9976ecc/build/Web/FormUrlEncoded.o )
+[4 of 4] Compiling Web.HttpApiData  ( src/Web/HttpApiData.hs, dist/dist-sandbox-c9976ecc/build/Web/HttpApiData.o )
+In-place registering http-api-data-0.3.8.1...
+Creating package registration file:
+/tmp/pkgConf-http-api-data-0.3.81869470124155324914.1
+Installing library in
+/home/matheushal/Documentos/PF/WEB/.cabal-sandbox/lib/x86_64-linux-ghc-7.10.3/http-api-data-0.3.8.1-03k0VM8G93wCn1M82bTyPq
+Registering http-api-data-0.3.8.1...
